@@ -58,7 +58,7 @@
 [PrismaHome]: https://www.prisma.io/
 [AntDesignBadge]: https://img.shields.io/badge/AntDesign-0170FE?logo=antdesign&style=flat-square&labelColor=000
 [AntDesignHome]: https://ant.design/
-[BoostBadge]: https://img.shields.io/badge/Boost-61DAFB?logo=Boost&style=flat-square&labelColor=000
+[BoostBadge]: https://img.shields.io/badge/Boost-AC6515?logo=Boost&style=flat-square&labelColor=000
 [BoostHome]: https://www.boost.org/
 [RXJSBadge]: https://img.shields.io/badge/RXJS-B7178C?logo=ReactiveX&style=flat-square&labelColor=000
 [RXJSHome]: https://rxjs.dev/
