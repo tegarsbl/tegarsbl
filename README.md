@@ -27,6 +27,7 @@
   ![Frameworks](https://img.shields.io/badge/Frameworks:-red?style=flat-square)
   [![Vuejs][VuejsBadge]][VuejsHome]
   [![Vite][ViteBadge]][ViteHome]
+  [![Boost][BoostBadge]][BoostHome]
   
   ![Study](https://img.shields.io/badge/Study:-red?style=flat-square)
   [![Rust][RustBadge]][RustHome]
@@ -57,7 +58,13 @@
 [PrismaHome]: https://www.prisma.io/
 [AntDesignBadge]: https://img.shields.io/badge/AntDesign-0170FE?logo=antdesign&style=flat-square&labelColor=000
 [AntDesignHome]: https://ant.design/
-[ReactBadge]: https://img.shields.io/badge/React-61DAFB?logo=React&style=flat-square&labelColor=000
-[ReactHome]: https://reactjs.org/
+[BoostBadge]: https://img.shields.io/badge/Boost-61DAFB?logo=Boost&style=flat-square&labelColor=000
+[BoostHome]: https://www.boost.org/
 [RXJSBadge]: https://img.shields.io/badge/RXJS-B7178C?logo=ReactiveX&style=flat-square&labelColor=000
 [RXJSHome]: https://rxjs.dev/
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/XianyaoYu/XianyaoYu/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/XianyaoYu/XianyaoYu/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/XianyaoYu/XianyaoYu/output/github-contribution-grid-snake.svg">
+</picture>
