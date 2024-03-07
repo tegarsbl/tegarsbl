@@ -2,7 +2,7 @@
 ![](https://count.getloli.com/get/@:XianyaoYu?theme=gelbooru)
 **访客。**
 
-<a href="https://github.com/reaink">
+<a href="https://github.com/XianyaoYu">
   <img align="right" src="http://github-readme-streak-stats.herokuapp.com?user=XianyaoYu&mode=weekly" />
 </a>
 
