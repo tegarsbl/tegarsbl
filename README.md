@@ -3,7 +3,7 @@
 **visitor.**
 
 <a href="https://github.com/reaink">
-  <img align="right" src="http://github-readme-streak-stats.herokuapp.com?user=reaink&mode=weekly" />
+  <img align="right" src="http://github-readme-streak-stats.herokuapp.com?user=XianyaoYu&mode=weekly" />
 </a>
 
 
