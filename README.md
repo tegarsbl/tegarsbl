@@ -1,6 +1,6 @@
-**Welcome! the**
+**欢迎！**
 ![](https://count.getloli.com/get/@:XianyaoYu?theme=gelbooru)
-**visitor.**
+**访客。**
 
 <a href="https://github.com/reaink">
   <img align="right" src="http://github-readme-streak-stats.herokuapp.com?user=XianyaoYu&mode=weekly" />
@@ -9,7 +9,7 @@
 
 ---
 
-- [XianYao\'s Blog](#)
+- [Xiányáo\'s Blog](#)
 - 清风皓月，光景常新。
 
 ---
@@ -63,8 +63,5 @@
 [RXJSBadge]: https://img.shields.io/badge/RXJS-B7178C?logo=ReactiveX&style=flat-square&labelColor=000
 [RXJSHome]: https://rxjs.dev/
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/XianyaoYu/XianyaoYu/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/XianyaoYu/XianyaoYu/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/XianyaoYu/XianyaoYu/output/github-contribution-grid-snake.svg">
-</picture>
+![github contribution grid snake animation](./dist//github-snake.svg#gh-dark-mode-only)
+![github contribution grid snake animation](./dist/github-snake.svg#gh-light-mode-only)
