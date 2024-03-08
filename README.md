@@ -1,5 +1,5 @@
 **欢迎！**
-![](https://count.getloli.com/get/@:XianyaoYu?theme=gelbooru)
+![](https://count.getloli.com/get/@:XianyaoYu?theme=rule34)
 **访客。**
 
 <a href="https://github.com/XianyaoYu">
