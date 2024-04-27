@@ -2,7 +2,6 @@
 ![](https://count.getloli.com/get/@:tegarsbl?theme=rule34)
 **visitors.**
 
-
 ---
 
 - [Tegar Sabila\'s Blog](#)
@@ -25,7 +24,6 @@
   [![Vite][ViteBadge]][ViteHome]
   [![Boost][BoostBadge]][BoostHome]
   
- 
 </div>
 
 [CppBadge]: https://img.shields.io/badge/C++-3178C6?logo=cplusplus&style=flat-square&labelColor=000
@@ -57,19 +55,11 @@
 [RXJSBadge]: https://img.shields.io/badge/RXJS-B7178C?logo=ReactiveX&style=flat-square&labelColor=000
 [RXJSHome]: https://rxjs.dev/
 
-
-
-
 ## 📊 My Github Stats
 <a href="https://github.com/tegarsbl">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tegarsbl&theme=buefy&show_icons=true" />
-  
-  <br/>
-  
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tegarsbl&theme=buefy&layout=compact" />
 </a>
-
-<br/>
 
 ![Github Trophy](https://github-profile-trophy.vercel.app/?username=tegarsbl)
 
