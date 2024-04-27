@@ -1,16 +1,12 @@
-**欢迎！**
-![](https://count.getloli.com/get/@:XianyaoYu?theme=rule34)
-**访客。**
-
-<a href="https://github.com/XianyaoYu">
-  <img align="right" src="http://github-readme-streak-stats.herokuapp.com?user=XianyaoYu&mode=weekly" />
-</a>
+**welcome!**
+![](https://count.getloli.com/get/@:tegarsbl?theme=rule34)
+**visitors.**
 
 
 ---
 
-- [Xiányáo\'s Blog](#)
-- 清风皓月，光景常新。
+- [Tegar Sabila\'s Blog](#)
+- The breeze is bright and the moon is bright, the scenery is always new.
 
 ---
 
@@ -29,8 +25,6 @@
   [![Vite][ViteBadge]][ViteHome]
   [![Boost][BoostBadge]][BoostHome]
   
-  ![Study](https://img.shields.io/badge/Study:-red?style=flat-square)
-  [![Rust][RustBadge]][RustHome]
  
 </div>
 
@@ -63,5 +57,24 @@
 [RXJSBadge]: https://img.shields.io/badge/RXJS-B7178C?logo=ReactiveX&style=flat-square&labelColor=000
 [RXJSHome]: https://rxjs.dev/
 
-![github contribution grid snake animation](./dist//github-snake.svg#gh-dark-mode-only)
-![github contribution grid snake animation](./dist/github-snake.svg#gh-light-mode-only)
+
+
+
+## 📊 My Github Stats
+<a href="https://github.com/tegarsbl">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tegarsbl&theme=buefy&show_icons=true" />
+  
+  <br/>
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tegarsbl&theme=buefy&layout=compact" />
+</a>
+
+<br/>
+
+![Github Trophy](https://github-profile-trophy.vercel.app/?username=tegarsbl)
+
+<p align="center">
+    <a href="https://github.com/tegarsbl/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Tegar Sabila's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=tegarsbl&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>
